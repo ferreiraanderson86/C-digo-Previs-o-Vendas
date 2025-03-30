@@ -45,5 +45,5 @@ Este projeto é uma demonstração prática de modelagem de séries temporais, i
 ## 📎 Contato
 Projeto desenvolvido para fins de portfólio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](URL_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)]([URL_DO_SEU_LINKEDIN](https://www.linkedin.com/in/anderson-lopes-ferreira-849a2524/))
 
